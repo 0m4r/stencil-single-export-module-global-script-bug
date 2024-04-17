@@ -1,0 +1,8 @@
+node_modules/
+dist/
+**/packages/react-library/lib/
+
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+.env
