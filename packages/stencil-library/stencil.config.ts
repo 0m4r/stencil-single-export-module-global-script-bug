@@ -11,10 +11,6 @@ export const config: Config = {
   },
   outputTargets: [
     {
-      type: "dist",
-      esmLoaderPath: "../loader",
-    },
-    {
       type: "dist-custom-elements",
       generateTypeDeclarations: true,
       includeGlobalScripts: true,
